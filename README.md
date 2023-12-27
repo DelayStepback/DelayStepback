@@ -1,5 +1,7 @@
 ### Good day, I'm Ivan
 
+|-|3110 \/\/0Г1|)
+
 ## 📱 Mobile Developer on Flutter
 
 I am mobile developer specializing in Flutter. Here, you will find a collection of projects and repositories that showcase my skills and expertise in building beautiful and functional mobile applications.
